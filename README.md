@@ -1,4 +1,4 @@
-# Assighmnt
+# AI Data Sweeper
 This is a powerful tool for Excel and CSV files that can be useful for data analysts, researchers, and business users. With this tool, they can:
 
 ✅ Remove duplicate rows
